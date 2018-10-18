@@ -11,7 +11,7 @@ var plan = require('./routes/plan');
 var user = require('./routes/user');
 var userSession = require('./routes/session');
 
-//Deneme test test test test test
+//Deneme yorum
 var app = express();
 
 var databaseUrl = 'mongodb://best-for-you-db-berker8:sJfFvfUDjQ5cQzlRhaUhQNxfH88yFdBA1FSJN7a8Qaa8PTjvuCvPjXPtskTUHsBkcTWggJj63BaVDN1yttAReg==@best-for-you-db-berker8.documents.azure.com:10255/best-for-you-berker8?ssl=true&replicaSet=globaldb';
